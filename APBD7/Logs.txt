@@ -1,0 +1,60 @@
+﻿GET,/api/students,,$
+GET,/api/students/,{
+    "Studies": "Techniczne",
+    "Semester": "3"
+},?lel=3$
+GET,/api/students/,{
+    "Studies": "IT",
+    "Semester": "2"
+},?lel=3$
+GET,/api/students/,{
+    "Studies": "IT",
+    "Semester": "2"
+},?lel=3$
+GET,/api/students,,
+GET,/favicon.ico,,
+GET,/api/students/,{
+    "Login": "admin",
+    "Password": "admin"
+},
+GET,/api/students/,{
+    "Login": "admin",
+    "Password": "admin"
+},
+GET,/api/students,,
+GET,/favicon.ico,,
+GET,/favicon.ico,,
+GET,/api/students,,
+GET,/favicon.ico,,
+POST,/api/students/login,,
+GET,/api/students,,
+GET,/api/students,,
+GET,/api/students,,
+POST,/api/students/login,,
+GET,/api/students,{
+    "Login": "s17000",
+    "Password": "s17000"
+},
+POST,/api/students/login,,
+GET,/api/students,{
+    "Login": "s2137",
+    "Password": "s2137"
+},
+GET,/api/students,{
+    "Login": "s2137",
+    "Password": "s21370
+},
+GET,/api/students,,
+POST,/api/students/refresh-token/ac293shf0-5525-53e2-kge2-92kl5m215793,{
+    "Login": "s2137",
+    "Password": "s2137"
+},
+GET,/api/students,,
+POST,/api/students/refresh-token/ac293shf0-5525-53e2-kge2-92kl5m215793,{
+    "Login": "s2137",
+    "Password": "s2137"
+},
+
+
+
+
